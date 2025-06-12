@@ -14,7 +14,7 @@ A simple and interactive quiz application built with modern web technologies.
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/siangjun2/quiz-app.git
+   git clone https://github.com/siangjun2/quiz-app
    cd quiz-app
    ```
 
